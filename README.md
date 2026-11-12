@@ -7,7 +7,7 @@ Reference: Blaustein RA, Smith JE, Toro M, Pachepsky Y, Stocker MD. 2025. Water 
 # Contents
 
 **code**
-* **command_line**: list of bioinformatics scripts used in the analysis
+* **bioinformatics_workflow.docx**: list of bioinformatics scripts used in the analysis
 * **wye-metagenomes.R**: R script to reproduce statistical analysis and generate data visualizations reported in the study
 
 **R_input_data**
