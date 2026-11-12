@@ -1,0 +1,23 @@
+﻿No,Tree.tips,Phyla,Species,Taxa,Taxa2,VFDB_70,CARD_70,VFDB_60,CARD_60,CAR_50,VFDB_50,Feature_total,drep_95,AMRF_50,total_amr,AMRF_50,total_amr
+1,W47_S7_bin.4,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,0,1,5,2,4,19,23,,5,0,5,0
+2,W26_S20_bin.13,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,0,1,3,2,4,15,19,,5,0,5,0
+3,W6_S1_bin.6,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,0,1,2,2,4,12,16,,1,0,1,0
+4,W48_S14_bin.15,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__,Microcystis sp.,Microcystis sp.,0,1,5,2,4,12,16,x,2,0,2,0
+5,W49_S10_bin.4,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,1,1,4,1,3,10,13,,3,0,3,0
+6,W38_S17_bin.15,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__,Microcystis sp.,Microcystis sp.,0,0,4,1,1,12,13,,3,0,3,0
+7,W39_S19_bin.6,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii*,0,1,3,2,3,8,11,,4,1,4,1
+8,W9_S5_bin.11,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,0,1,2,0,2,8,10,,4,0,4,0
+9,W8_S13_bin.15,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,0,0,1,1,2,5,7,,3,0,3,0
+10,W17_S4_bin.5,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__PCC-6307_f__Cyanobiaceae_g___s__,Cyanobiaceae sp.,Cyanobiaceae sp.*,1,1,2,2,5,12,17,x,5,1,5,1
+11,W8_S13_bin.20,p__Actinobacteriota,p__Actinobacteriota_c__Actinomycetia_o__Nanopelagicales_f__Nanopelagicaceae_g__Planktophila_s__,Planktophila sp.,Planktophila sp.*,0,1,0,3,5,3,8,x,2,1,2,1
+12,W49_S10_bin.6,p__Proteobacteria,p__Proteobacteria_c__Alphaproteobacteria_o__Rhizobiales_f__Beijerinckiaceae_g__Methylocystis_s__,Methylocystis sp.,Methylocystis sp.,1,1,3,2,2,13,15,x,3,0,3,0
+13,W26_S20_bin.3,p__Proteobacteria,p__Proteobacteria_c__Gammaproteobacteria_o__Methylococcales_f__Methylococcaceae_g__Methyloumidiphilus_s__,Methyloumidiphilus sp.,Methyloumidiphilus sp.**,1,0,4,0,4,22,26,x,4,2,4,2
+14,W29_S12_bin.5,p__Proteobacteria,p__Proteobacteria_c__Gammaproteobacteria_o__Methylococcales_f__Methylococcaceae_g__Methyloumidiphilus_s__,Methyloumidiphilus sp.,Methyloumidiphilus sp.*,2,3,9,5,9,29,38,x,5,1,5,1
+15,W49_S10_bin.5,p__Proteobacteria,p__Proteobacteria_c__Gammaproteobacteria_o__Burkholderiales_f__Methylophilaceae_g__MM2_s__,MM2 sp.,MM2 sp.,2,3,5,4,8,20,28,x,2,0,2,0
+16,W9_S5_bin.1,p__Proteobacteria,p__Proteobacteria_c__Gammaproteobacteria_o__Burkholderiales_f__Rhodocyclaceae_g__UBA2250_s__,UBA2250 sp.,UBA2250 sp.*,1,1,5,2,4,22,26,x,2,1,2,1
+17,W59_S23_bin.10,p__Verrucomicrobiota,p__Verrucomicrobiota_c__Verrucomicrobiae_o__Opitutales_f__UBA953_g__UBA953_s__,UBA953 sp.,UBA953 sp.,1,0,2,3,5,8,13,x,1,0,1,0
+18,W48_S14_bin.21,p__Bacteroidota,p__Bacteroidota_c__Kapabacteria_o__Kapabacteriales_f__Kapabacteriaceae_g__UBA10438_s__,UBA10438 sp.,UBA10438 sp.,0,0,0,0,0,2,2,x,1,0,1,0
+19,W48_S14_bin.4,p__Bacteroidota,p__Bacteroidota_c__Bacteroidia_o__Chitinophagales_f__Chitinophagaceae_g__UBA1312_s__,UBA1312 sp.,UBA1312 sp.*,0,0,1,0,0,6,6,x,3,1,3,1
+20,W58_S18_bin.10,p__Bacteroidota,p__Bacteroidota_c__Bacteroidia_o__Flavobacteriales_f__Crocinitomicaceae_g__Fluviicola_s__,Fluviicola sp.,Fluviicola sp.*,0,0,3,1,3,5,8,x,2,1,2,1
+21,W58_S18_bin.13,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__,Microcystis sp.,Microcystis sp.,1,0,3,1,2,12,14,,4,0,4,0
+22,W28_S16_bin.17,p__Cyanobacteria,p__Cyanobacteria_c__Cyanobacteriia_o__Cyanobacteriales_f__Microcystaceae_g__Microcystis_s__Microcystis wesenbergii,Microcystis wesenbergii,Microcystis wesenbergii,1,1,4,2,3,12,15,,6,0,6,0
