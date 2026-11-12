@@ -8,7 +8,7 @@ Reference: Blaustein RA, Smith JE, Toro M, Pachepsky Y, Stocker MD. 2025. Water 
 
 **code**
 * **command_line**: list of bioinformatics scripts used in the analysis
-* **R**: R script to reproduce statistical analysis and generate data visualizations reported in the study
+* **wye-metagenomes.R**: R script to reproduce statistical analysis and generate data visualizations reported in the study
 
 **R_input_data**
 * **annotation**: functional content in metagenomes (i.e., metacyc pathways, antimicrobial resistance genes, virulence factors)
