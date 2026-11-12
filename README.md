@@ -22,7 +22,7 @@ _Preprocessing_
 
 _Microbial taxonomic and functional classification_
 * Kraken2 v2.1.2
-* Braken
+* Bracken v3.1
 * HUMAnN2 v.0.11.1
 * ShortBRED v0.9.5
 
