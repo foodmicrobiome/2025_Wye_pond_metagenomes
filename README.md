@@ -33,10 +33,5 @@ _MAG recovery and characterization_
 * dRep v2.6.2
 * GTDB-Tk v1.3.0
 * FastTree v.2.1.10
+* AMRFinderPlus v3.12.8
 
-
-
-
-
-
-_AMRFinderPlus v3.12.8_
