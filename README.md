@@ -2,7 +2,7 @@
 
 Scripts and data used to characterize microbial diversity in metagenomes of agricultureal research pond at Wye Research and Education Center.
 
-Reference: Blaustein et al. 2025. Water metagenomes reflect physicochemical water quality throughout a model agricultural pond. _Frontiers in Microbiology_ 16:1535096. https://doi.org/10.3389/fmicb.2025.1535096
+Reference: Blaustein RA, Smith JE, Toro M, Pachepsky Y, Stocker MD. 2025. Water metagenomes reflect physicochemical water quality throughout a model agricultural pond. _Frontiers in Microbiology_ 16:1535096. https://doi.org/10.3389/fmicb.2025.1535096
 
 # Contents
 
