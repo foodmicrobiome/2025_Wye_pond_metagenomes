@@ -11,10 +11,10 @@ Reference: Blaustein RA, Smith JE, Toro M, Pachepsky Y, Stocker MD. 2025. Water 
 * **wye-metagenomes.R**: R script to reproduce statistical analysis and generate data visualizations reported in the study
 
 **R_input_data**
-* **annotation**: functional content in metagenomes (i.e., metacyc pathways, antimicrobial resistance genes, virulence factors)
-* **metadata**: pond water and sediment sample metadata
-* **taxa**: kraken2/bracken table of microbial taxa counts
-* **tree**: metagenome-assembled genome (MAG) alignment
+* **annotation**: path containing input files for functional content in metagenomes (i.e., metacyc pathways, antimicrobial resistance genes, virulence factors)
+* **metadata**: path containing input file for pond water and sediment sample metadata
+* **taxa**: path containing input file for kraken2/bracken table of microbial taxa counts
+* **tree**: path containing input files for metagenome-assembled genome (MAG) alignment
 
 # Modules Required
 _Preprocessing_
